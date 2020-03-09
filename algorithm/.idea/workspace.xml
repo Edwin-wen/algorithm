@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b031d3f8-2e60-47b5-8918-dd61c562d737" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="196" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYDx9Ie0xRcZOeQmXfrOhlTNeU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.BitAL">
+    <configuration name="ArrayAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAL" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitAL" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DPQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DPQuestion" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortAL" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BitAL" />
+        <item itemvalue="Application.SortAL" />
+        <item itemvalue="Application.ArrayAL" />
+        <item itemvalue="Application.DPQuestion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b031d3f8-2e60-47b5-8918-dd61c562d737" name="Default Changelist" comment="" />
+      <created>1579317878432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579317878432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="85" key="#Project_Structure" timestamp="1579317890779">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="320" y="85" key="#Project_Structure/0.23.1440.794@0.23.1440.794" timestamp="1579317890779" />
+    <state x="483" y="130" key="#xdebugger.evaluate" timestamp="1579780816489">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="483" y="130" key="#xdebugger.evaluate/0.23.1440.794@0.23.1440.794" timestamp="1579780816489" />
+    <state width="1398" height="149" key="GridCell.Tab.0.bottom" timestamp="1580460958121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580460958121" />
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1579780740439" />
+    <state width="1398" height="149" key="GridCell.Tab.0.center" timestamp="1580460958120">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580460958120" />
+    <state width="1358" height="237" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1579780740438" />
+    <state width="1398" height="149" key="GridCell.Tab.0.left" timestamp="1580460958120">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580460958120" />
+    <state width="1358" height="237" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1579780740437" />
+    <state width="1398" height="149" key="GridCell.Tab.0.right" timestamp="1580460958121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580460958121" />
+    <state width="1358" height="237" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1579780740438" />
+    <state width="1398" height="149" key="GridCell.Tab.1.bottom" timestamp="1580460958123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580460958123" />
+    <state width="1358" height="237" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1579780740534" />
+    <state width="1398" height="149" key="GridCell.Tab.1.center" timestamp="1580460958122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580460958122" />
+    <state width="1358" height="237" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1579780740533" />
+    <state width="1398" height="149" key="GridCell.Tab.1.left" timestamp="1580460958121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580460958121" />
+    <state width="1358" height="237" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1579780740533" />
+    <state width="1398" height="149" key="GridCell.Tab.1.right" timestamp="1580460958122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="149" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580460958122" />
+    <state width="1358" height="237" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1579780740534" />
+    <state width="1358" height="189" key="GridCell.Tab.2.bottom" timestamp="1579621241126">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.2.bottom/0.23.1440.794@0.23.1440.794" timestamp="1579621241126" />
+    <state width="1358" height="189" key="GridCell.Tab.2.center" timestamp="1579621241125">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.2.center/0.23.1440.794@0.23.1440.794" timestamp="1579621241125" />
+    <state width="1358" height="189" key="GridCell.Tab.2.left" timestamp="1579621241124">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.2.left/0.23.1440.794@0.23.1440.794" timestamp="1579621241124" />
+    <state width="1358" height="189" key="GridCell.Tab.2.right" timestamp="1579621241125">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.2.right/0.23.1440.794@0.23.1440.794" timestamp="1579621241125" />
+    <state width="1358" height="189" key="GridCell.Tab.3.bottom" timestamp="1579621242058">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.3.bottom/0.23.1440.794@0.23.1440.794" timestamp="1579621242058" />
+    <state width="1358" height="189" key="GridCell.Tab.3.center" timestamp="1579621242057">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.3.center/0.23.1440.794@0.23.1440.794" timestamp="1579621242057" />
+    <state width="1358" height="189" key="GridCell.Tab.3.left" timestamp="1579621242057">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.3.left/0.23.1440.794@0.23.1440.794" timestamp="1579621242057" />
+    <state width="1358" height="189" key="GridCell.Tab.3.right" timestamp="1579621242058">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.3.right/0.23.1440.794@0.23.1440.794" timestamp="1579621242058" />
+    <state x="229" y="41" key="SettingsEditor" timestamp="1580460770825">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="41" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580460770825" />
+    <state x="229" y="59" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1579434439764" />
+    <state x="399" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1579317883965">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="399" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.794@0.23.1440.794" timestamp="1579317883965" />
+    <state x="386" y="36" width="667" height="827" key="find.popup" timestamp="1580130896622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="36" width="667" height="827" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1580130896622" />
+    <state x="386" y="55" width="667" height="729" key="find.popup/0.23.1440.794@0.23.1440.794" timestamp="1579434346336" />
+    <state width="600" height="481" key="javadoc.popup" timestamp="1583677203635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="481" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1583677203635" />
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.794@0.23.1440.794" timestamp="1579661935137" />
+    <state x="97" y="72" key="new project wizard" timestamp="1583501654995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583501654995" />
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup" timestamp="1579793613105">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1579793613105" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$SortAL.ic" NAME="SortAL Coverage Results" MODIFIED="1579766232953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
