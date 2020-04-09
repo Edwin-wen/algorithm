@@ -17,14 +17,32 @@ public class TreeInterAL {
      * 类型
      */
     public int TreeDepth(TreeNode root) {
-
+        if (root == null) {
+            return 0;
+        }
+        int left = TreeDepth(root.left);
+        int right = TreeDepth(root.right);
+        return 1 + Math.max(left, right);
     }
 
     public int isBalance(TreeNode root) {
-
+        if (root == null) {
+            return 0;
+        }
+        int left = isBalance(root.left);
+        int right = isBalance(root.right);
+        if (left == -1 || right == -1 || Math.abs(left, right) > 1) {
+            return -1;
+        }
+        return 1 + Math.max(left, right);
     }
 
     public int isBinarySort(TreeNode root) {
+
+    }
+
+    private void midTravesal(TreeNode root) {
+        midTravesal(root.left);
 
     }
 
